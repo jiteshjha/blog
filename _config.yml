@@ -61,8 +61,8 @@ repo: blog
 branch: master
 relative_source: ../blog/
 destination: ../gh-pages/
-production_url:  https://github.com/jiteshjha/blog
-source_url:      https://twitter.com/jiteshjha96
+production_url:  http://jiteshjha.github.io/blog/
+source_url:      https://github.com/jiteshjha/blog
 
 exclude:
   - README.md
